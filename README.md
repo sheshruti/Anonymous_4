@@ -1,4 +1,5 @@
 # Chikitsak
+<<<<<<< HEAD
 
 
 
@@ -48,3 +49,5 @@ With the current scenario of covid-19 pandemic when everyone is feeling risky to
 
 //
 Horizontal Rule -->
+=======
+>>>>>>> c8694632e31db3dbaa9cf8c1ec625537eedac5b3
